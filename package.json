@@ -126,5 +126,8 @@
     "react-syntax-highlighter": {
       "prismjs": "1.30.0"
     }
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
