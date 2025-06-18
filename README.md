@@ -2,7 +2,9 @@
 
 Este projeto é uma aplicação web desenvolvida com React e TypeScript, focada em gestão de produtos e usuários, com interface moderna, autenticação e navegação eficiente.
 
-Acesse: [Clique aqui para acessar o sistema](https://teste-tecnico-aiva-1.vercel.app/sign-in){:target="_blank"}
+Acesse: <a href="https://teste-tecnico-aiva-1.vercel.app" target="_blank" rel="noopener noreferrer">
+  Clique aqui para acessar o sistema
+</a>
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -96,7 +98,9 @@ O Vite foi escolhido por oferecer:
 ## 🚀 Deploy
 
 A aplicação pode ser facilmente publicada em qualquer serviço de hospedagem de aplicações front-end modernas.
-Está rodando na vercel [Clique aqui para acessar o sistema](https://teste-tecnico-aiva-1.vercel.app/sign-in){:target="_blank"}
+Está rodando na vercel <a href="https://teste-tecnico-aiva-1.vercel.app" target="_blank" rel="noopener noreferrer">
+  Clique aqui para acessar o sistema
+</a>
 
 ## Autor: Marcos Coelho
 
