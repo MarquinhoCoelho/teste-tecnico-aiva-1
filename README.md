@@ -35,12 +35,7 @@ git clone [URL_DO_REPOSITORIO]
 npm install
 ```
 
-3. Configure as variáveis de ambiente:
-```bash
-cp .env.example .env
-```
-
-4. Inicie o projeto:
+3. Inicie o projeto:
 ```bash
 npm start
 ```
